@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Commer Care Center
+          Commerce Care Center
         </p>
         <p>
           Contact Ramesh Agrawal : +91 98353 40533
